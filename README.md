@@ -30,10 +30,6 @@ unzip github-data.zip
 
 **Note that you need *zip* installed on your machine.**
 
-<h4> License </h4>
-
-This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details.
-
 <h4> Acknowledgments </h4>
 
 We would like to thank [GHTorrent](https://ghtorrent.org/) as it was the main provider of the data.
