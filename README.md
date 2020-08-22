@@ -30,6 +30,8 @@ unzip github-data.zip
 
 **Note that you need *zip* installed on your machine.**
 
+The complete list of features is avaliable at [here](https://github.com/anonymous-replication/replication-package-github/blob/master/features.md)
+
 <h4> Acknowledgments </h4>
 
 We would like to thank [GHTorrent](https://ghtorrent.org/) as it was the main provider of the data.
