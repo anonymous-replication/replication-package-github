@@ -30,7 +30,9 @@ unzip github-data.zip
 
 **Note that you need *zip* installed on your machine.**
 
-The complete list of features is avaliable at [here](https://github.com/anonymous-replication/replication-package-github/blob/master/features.md)
+<h4>3) Features</h4>
+
+The complete list of features is avaliable [here](https://github.com/anonymous-replication/replication-package-github/blob/master/features.md)
 
 <h4> Acknowledgments </h4>
 
