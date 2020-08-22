@@ -32,7 +32,7 @@ unzip github-data.zip
 
 <h4>3) Features</h4>
 
-The complete list of features is avaliable [here](https://github.com/anonymous-replication/replication-package-github/blob/master/features.md)
+The complete list of features is avaliable [here](https://github.com/anonymous-replication/replication-package-github/blob/master/features.md).
 
 <h4> Acknowledgments </h4>
 
